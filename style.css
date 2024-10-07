@@ -164,6 +164,7 @@ body {
 
 .trending {
     background-color: black;
+
     margin-left:40px;
 }
 
@@ -212,7 +213,7 @@ body {
 
 .mxx{
     width:63%;
-    margin:auto;
+    margin: auto;
 }
 
 
@@ -542,10 +543,10 @@ body {
     align-items: center;
 }
 
-/* .logo{
+.logo{
+  height:35px;
 
-
-} */
+}
 
 .top-right {
     display: flex;
@@ -799,7 +800,7 @@ body {
     position:relative;
     padding:5px 20px 5px 20px;
     width:30vw;
-    height:25vh;
+    height:28vh;
     border-radius:14px;
     background-color: rgb(19, 18, 18);
     background:linear-gradient(
@@ -1041,6 +1042,9 @@ body {
     align-items: center;
 }
 
+.logo{
+    height:35px;
+}
 
 
 .top-right {
@@ -1296,7 +1300,7 @@ body {
     position:relative;
     padding:5px 20px 5px 20px;
     width:70vw;
-    height:20vh;
+    height:25vh;
     margin:auto;
     border-radius:14px;
     background-color: rgb(19, 18, 18);
